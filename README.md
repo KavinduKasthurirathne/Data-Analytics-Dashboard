@@ -1,2 +1,2 @@
-# Data-Analytics-Dashboard
-Most Streamed Spotify Songs 2023
+# Power BI Project - Dashboard
+## Most Streamed Spotify Songs 2023
